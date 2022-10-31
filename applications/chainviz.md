@@ -165,7 +165,7 @@ Founder of Helikon Labs. Software developer with a bachelor's degree in Computer
 
 #### Ugur Becer
 
-Cofounder of  [XOVR](https://www.xovr.co). Ugur comes from a [background of cinematography](https://www.ugurbecer.com)who holds a MFA degree from NYFA. Many films he worked on were selected and awarded for prestigious film festivals including Toronto Film Festival, London Film Festival and Istanbul film Festival.  He has also been selected as a member of [‘Berlinale Talent’](https://www.berlinale-talents.de/bt//talent/ugur-becer/profile) as a cinematographer.
+Cofounder of  [XOVR](https://www.xovr.co). Ugur comes from a [background of cinematography](https://www.ugurbecer.com) who holds a MFA degree from NYFA. Many films he worked on were selected and awarded for prestigious film festivals including Toronto Film Festival, London Film Festival and Istanbul film Festival.  He has also been selected as a member of [‘Berlinale Talent’](https://www.berlinale-talents.de/bt//talent/ugur-becer/profile) as a cinematographer.
 In 2015 he started focusing on cinematic immersive experiences which led him to opening his Virtual Reality Production Studio called XOVR.
 He has created over 30 VR projects in 7 years - to high profile clients- and served as Project Manager to all of them. The last 2 VR projects were supported and granted from World Bank and European Union. They were all highly accomplished and successfully delivered. Ugur is now very excited to focus on blockchain technologies and Helikon projects on dotsama ecosystem.
 
